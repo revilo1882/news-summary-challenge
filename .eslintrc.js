@@ -5,6 +5,7 @@ module.exports = {
       "no-param-reassign": 0,
       "no-var": 0,
       "prefer-const": 0,
-      "no-undef": 0
+      "no-undef": 0,
+      "no-unused-vars": 0
     }
 };
